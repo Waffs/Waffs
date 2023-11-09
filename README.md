@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmad Wafiq
+- 👋 Hi, I’m Ahmad Wafiq Saad
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently a Fellow of Arewa Data Science Academy
 - 📫 How to reach me email=ahmedwafiqs@gmail.com

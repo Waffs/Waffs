@@ -4,7 +4,7 @@
 - :earth_africa: I live in Kaduna Nigeria
 * :mortar_board: I am currently a **Fellow of Arewa Data Science Academy**
 + 📫 You can contact me via [Email] (ahmedwafiqs@gmail.com)
-- 
+- ![medium logo] (https://www.flaticon.com/free-icon/medium_5968906) I chronicle my tech journey on [Medium] (https://medium.com/@ahmedwafiqs)
    
 
 <!---

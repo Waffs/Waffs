@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - :earth_africa: I live in Kaduna Nigeria
 * :mortar_board: I am currently a **Fellow of Arewa Data Science Academy**
-+ 📫 You can contact me via [Email](ahmedwafiqs@gmail.com)
++ 📫 You can contact me via ahmedwafiqs@gmail.com
 - I chronicle my tech journey on [Medium](https://medium.com/@ahmedwafiqs)
    
 

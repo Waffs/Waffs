@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Ahmad Wafiq Saad
+# 👋 Hi, I’m Ahmad Wafiq Saad
+## Electrical Engineer and Data Scientist
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently a Fellow of Arewa Data Science Academy
-- 📫 How to reach me email=ahmedwafiqs@gmail.com
+- :earth_africa: I live in Kaduna Nigeria
+* :mortar_board: I am currently a **Fellow of Arewa Data Science Academy**
++ 📫 You can contact me via [Email] (ahmedwafiqs@gmail.com)
+- 
    
 
 <!---

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ahmad Wafiq Saad
 ## Electrical Engineer and Data Scientist
-- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🧠 I’m interested in Machine Learning and Artificial Intelligence
 - :earth_africa: I live in Kaduna Nigeria
 * :mortar_board: I am currently a **Fellow of Arewa Data Science Academy**
 + 📫 You can contact me via ahmedwafiqs@gmail.com

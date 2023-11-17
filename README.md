@@ -7,7 +7,9 @@
 - I chronicle my tech journey on [Medium](https://medium.com/@ahmedwafiqs)
    
 ## Skills ##
-[![Python](https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg)](python.org)
+<a href="python.org">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" alt="SkillName" width="100" height="100">
+</a>
 
 <!---
 Waffs/Waffs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

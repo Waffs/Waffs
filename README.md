@@ -6,7 +6,7 @@
 + 📫 You can contact me via ahmedwafiqs@gmail.com
 - I chronicle my tech journey on [Medium](https://medium.com/@ahmedwafiqs)
    
-##Skills##
+## Skills ##
 [![Python](https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg)](python.org)
 
 <!---

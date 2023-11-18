@@ -2,7 +2,7 @@
 ## Electrical Engineer and Data Scientist
 - 🧠 I’m interested in Machine Learning and Artificial Intelligence
 - :earth_africa: I live in Kaduna Nigeria
-* :mortar_board: I am currently a **Fellow of Arewa Data Science Academy**
+* :mortar_board: I am currently enrolled in **Arewa Data Science Academy Machine Learning Fellowship**
 + 📫 You can contact me via ahmedwafiqs@gmail.com
 - I chronicle my tech journey on [Medium](https://medium.com/@ahmedwafiqs)
    

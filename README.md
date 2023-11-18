@@ -6,6 +6,8 @@
 + 📫 You can contact me via ahmedwafiqs@gmail.com
 - I chronicle my tech journey on [Medium](https://medium.com/@ahmedwafiqs)
    
+
+
 ## Skills ##
 <a href="python.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" alt="SkillName" width="100" height="100">
@@ -14,6 +16,11 @@
 </a> <a href="git-scm.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/240px-Git_icon.svg.png" alt="Git" width="100" height="100">
 </a>
+
+
+
+## Tools ##
+
 <!---
 Waffs/Waffs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

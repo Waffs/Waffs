@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ahmad Wafiq Saad
-## [🔗](https://github.com/Waffs) Electrical Engineer and Data Scientist ##
+## (https://github.com/Waffs) Electrical Engineer and Data Scientist ##
 - 🧠 I’m interested in Machine Learning and Artificial Intelligence
 - :earth_africa: I live in Kaduna Nigeria
 * :mortar_board: I am currently enrolled in `Arewa Data Science Academy Machine Learning Fellowship`
@@ -8,7 +8,7 @@
    
 
 
-## [🔗](https://github.com/Waffs) Skills ##
+## (https://github.com/Waffs) Skills ##
 <a href="python.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" alt="SkillName" width="100" height="100">
 </a> <a href="MySQL.com">

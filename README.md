@@ -15,7 +15,10 @@
     <img src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" alt="MySQL" width="100" height="100">
 </a> <a href="git-scm.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/240px-Git_icon.svg.png" alt="Git" width="100" height="100">
+</a> <a href="powerapps.microsoft.com/en-gb/">
+    <img src="github.com/Waffs/Waffs/blob/main/Microsoft-Power-Apps-Icon.png" alt="Git" width="100" height="100">
 </a>
+
 
 
 

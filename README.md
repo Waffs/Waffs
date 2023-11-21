@@ -18,7 +18,8 @@
 </a> <a href="https://powerapps.microsoft.com/en-gb/">
   <img src="Microsoft-Power-Apps-Icon.png" alt="Microsoft Power Apps Icon" width="100" height="100">
 </a>
-
+## :fire: My Stats ##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Waffs)](https://git.io/streak-stats)
 
 
 

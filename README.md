@@ -8,7 +8,7 @@
    
 
 
-## Skills ##
+## Skills🛠️ ##
 <a href="python.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" alt="SkillName" width="100" height="100">
 </a> <a href="MySQL.com">
